@@ -1,7 +1,7 @@
 # "Shark attack" project.
 Maximiliano Tabó.
 ## 1-Introduction.
-The goal of the project is to analise the DataFrame based on 1 or more hypotheses made.
+The goal of the project is to analyse the DataFrame based on 1 or more hypotheses made.
 ## 2-Hypotheses.
 A-The most dangerous activity for shark attacks is surfing
 B-Men are attacked much more than women
