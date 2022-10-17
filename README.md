@@ -12,7 +12,7 @@ E- Youth are the most attacked by sharks.
 ## 3- Steps.
 Based on the hypotheses made, I started cleaning the DataFrame. There were a lot of missing-value rows and unnecessary information in columns.
 After that I went through REGEX to match many values that the syntax was similiar but not the same. Following that, I kept the values within certain ranges.
-From there on, I began with the visualization to check if the hypothesis were right or not.
+From there on, I began with the visualization to check if the hypotheses were right or not.
 
 
 Hypothesis A
@@ -30,10 +30,10 @@ Hypothesis E
 
 
 ## 4-Conclusions.
-Hypothesis A is mostly validated. The attacks are almost double in the second position. In spite of this, diving activities are more lethal.
+Hypothesis A is mostly validated. The attacks are almost double than the second position. In spite of this, diving activities are more lethal.
 Hypothesis B is correct. Based on the plot, men are attacked much more than women.
 Hypothesis C is erroneous. The U.S.A is on top of the ranking.
-As we could presupposed, White sharks are the most lethal shark on earth. Hypothesis D is positive.
+As we could presupposed, White sharks are the most lethal sharks on earth. Hypothesis D is positive.
 For the last hypothesis we can deduce, due to that youth are more reckless than others, youth are more attacked than people of other ranges.
 
 
