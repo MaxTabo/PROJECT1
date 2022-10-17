@@ -12,7 +12,7 @@ E- Youth are the most attacked by sharks.
 ## 3- Steps.
 Based on the hypotheses made, I started cleaning the DataFrame. There were a lot of missing-value rows and unnecessary information in columns.
 After that I went through REGEX to match many values that the syntax was similiar but not the same. Following that, I kept the values within certain ranges.
-Fron there on, I began with the visualization to check if the hypothesis were right or not.
+From there on, I began with the visualization to check if the hypothesis were right or not.
 
 
 Hypothesis A
